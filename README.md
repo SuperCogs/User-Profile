@@ -12,6 +12,8 @@ Features:
  
 **SuperCogsUserProfile** can be used with both Swift and Objective-C projects.
 
+**Important:** This project only has public interface of `SuperCogsUserProfileView`, `TwoStateActionButton` and `ActionStatusBarView` without actual implementation. For purchasing the full library visit us at [SuperCogs](https://supercogs.io).
+
 ## Requirements
 
 - iOS 9.0+
